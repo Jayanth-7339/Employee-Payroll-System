@@ -1,4 +1,4 @@
- Employee Payroll System (Python + MySQL + OOP)
+Employee Payroll System (Python + MySQL + OOP)
 Project Overview
 
 This project is a simple Employee Payroll System developed using Python and MySQL. It manages employee details, salary records, and attendance using a menu-driven program with Object-Oriented Programming.
